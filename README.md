@@ -1,2 +1,4 @@
 # mickejohansson.info
-My website. http://mickejohansson.info
+My up-and-coming website.
+
+http://mickejohansson.info

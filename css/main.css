@@ -21,7 +21,7 @@
 /* Typing effect */
 @keyframes typing {
 	from { width: 0 }
-	to { width: 85% }
+	to { width: 50% }
 }
 
 @keyframes blink-caret {
@@ -64,7 +64,7 @@ p, ul li {
 	overflow: hidden;
 	border-right: .15em solid transparent/*#F15152*/;
 	margin: 0 auto;
-	width: 85%;
+	width: 50%;
 	animation: typing 2.5s steps(30, end), blink-caret .5s 7;
 }
 
@@ -99,7 +99,7 @@ p, ul li {
 	margin-left: 15%;
 }
 
-#content-project {
+#content-project, #content-monster-hunter {
 	display: none;
 	justify-content: space-between;
 	width: 80%;

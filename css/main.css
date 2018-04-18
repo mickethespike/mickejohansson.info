@@ -65,7 +65,7 @@ p, ul li {
 	border-right: .15em solid transparent/*#F15152*/;
 	margin: 0 auto;
 	width: 49%;
-	animation: typing 2.5s steps(30, end), blink-caret .5s 7;
+	animation: typing 2.5s steps(30, end), blink-caret .5s 9;
 }
 
 .navigation {
@@ -76,6 +76,8 @@ p, ul li {
 .navigation h3 {
 	margin-left: 5em;
 	margin-right: 5em;
+
+	cursor: pointer;
 
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
